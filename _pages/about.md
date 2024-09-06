@@ -22,8 +22,8 @@ redirect_from:
 
 # 🎓 Education Background
 
-- **成绩均分：** GPA：3.91/4.0、加权平均分：92.11/100  
-- **排名：** GPA排名：**10/146 (6.8%)**    
+- **成绩均分：** GPA：3.91/4.0、加权平均分：91.63/100  
+- **排名：** GPA排名：**6/146 (4.1%)**    
 - **语言能力：** 以良好成绩通过 CET4、CET6(其中CET6-552)；具备良好的英语文献阅读和写作能力  
 - **核心课程：** 高等数学 (96,90)、线性代数 (90)、概率论与数理统计 (95)、数据结构 (92,92)、离散数学 (92)、信息安全数学基础 (94)、计算机网络 (95)、密码学 (97,94)、软件安全 (95)、安全创客实践 (96)  
 - **编程能力：** 编程常用语言为 C++、Python，熟悉算法与数据结构，代码风格良好；熟练掌握 PyTorch、Numpy、Pandas、OpenCV，熟悉各类深度学习模型及其编程实现；具备优秀的编程、建模能力，多次获数学建模/数据挖掘(kaggle)类比赛奖项  
@@ -38,7 +38,7 @@ redirect_from:
 
 - **时间：** 2024.2 - 2024.8  
 - **领域：** **时序点过程**，**最优传输**  
-- **角色：** 第三作者  
+- **角色：** 第四作者  
 - **研究背景：**  
   1. **时序点过程 (TPPs)** 是对连续时间域上离散事件点进行建模的强大工具，已被广泛用于地震预测、金融分析、推荐系统等多个领域。
   2. 对于事件序列，通常存在一个分支过程来捕获隐藏在序列中的事件级触发模式，这个分支过程提供了对事件之间因果关系的洞察，帮助我们识别触发后续事件级联的关键事件，这对于揭示事件产生和信息扩散的潜在机制至关重要。
@@ -51,14 +51,14 @@ redirect_from:
   3. **事件分支的有效表征：** 结构化的责任矩阵和注意力图可以有效表征事件分支，提供关于事件产生和信息扩散机制的有价值见解。
 - **项目成果：**  
   * 在合成数据和现实数据上的实验表明，将我们的BADMM模块插入到现有的TPP模型和学习范式中可以稳定提高模型的性能，并产出可解释的事件分支。
-  * 论文已投稿至**AAAI 2025**(第三作者，第一本科生作者)&nbsp;<span style="font-size: 16px;">
+  * 论文已投稿至**AAAI 2025**(第四作者)&nbsp;<span style="font-size: 16px;">
       <a href="https://insistentyy.github.io/docs/AAAIhuangjing.png">[OpenReview]</a>
 
 ## **💡 使用可扩展非参数正则化学习结构增强时序点过程** 
 
-- **时间：** 2023.11 - 2024.8  
+- **时间：** 2024.7 - 2024.8  
 - **领域：** **时序点过程**，**最优传输**，**可解释性**  
-- **角色：** 第五作者（第二本科生作者）  
+- **角色：** 第四作者  
 - **研究背景：**  
   1. 时序点过程(TPPs)作为一种强大的统计工具，通常被用于连续时间域的事件序列建模，捕获事件的生成机制并据此预测未来事件。近年来，递归神经网络(RNN)和Transformer等被应用于设计TPPs，催生了诸如RMTPP、THP、SAHP等方法。这些方法虽然有效，但往往忽视了事件序列中的潜在聚类结构。
   2. 在现实世界中，不同的事件序列因不同的生成机制属于不同的聚类，如不同疾病患者的入院行为、劳动者的职业发展轨迹等。忽略这些聚类结构可能导致模型错配，影响模型的可解释性和预测精度。
@@ -69,7 +69,7 @@ redirect_from:
   3. 我们的方法将参数与非参数TPP模型的优势结合，既能扩展到新出现的事件序列中，又能显著提高模型的预测精度和可解释性。
 - **项目成果：**  
   * 我们的方法通过广泛的合成和实际数据集测试，展示了优于现有SOTA方法的性能。
-  * 相关论文已完成，先前投稿于KDD 2024，Decision为Resubmit；现已完善并投稿(resubmit，录用率远高于常规track)于 KDD 2025(第五作者，第二本科生作者)&nbsp;<span style="font-size: 16px;"><a href="https://insistentyy.github.io/docs/KDDhuangjing.jpeg">[OpenReview]</a></span>
+  * 相关论文已完成，先前投稿于KDD 2024，Decision为Resubmit；现已完善并投稿(resubmit，录用率远高于常规track)于 KDD 2025(第四作者)&nbsp;<span style="font-size: 16px;"><a href="https://insistentyy.github.io/docs/KDDhuangjing.jpeg">[OpenReview]</a></span>
 
 ---
 
@@ -198,10 +198,9 @@ redirect_from:
 
 - **中国大学生计算机设计大赛：全国二等奖** *国家级* 2024 &nbsp;&nbsp;[[证明]](..\docs\AWARDjisheguoer.jpg)   
 - **Kaggle-American Sign Language Fingerspelling Recognition：铜牌** *国家级* 2023 &nbsp;&nbsp;[[证明]](..\docs\AWARDGoogleASLhj.png)
-- **全国大学生数学竞赛：一等奖** *国家级* 2023 &nbsp;&nbsp;[[证明]](..\docs\AWARDshuxuejingsai.pdf)   
 - **中国大学生计算机设计大赛 (中南地区赛)：赛区第一名** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\AWARDjisheshengyi.jpg)  
 - **中国大学生计算机设计大赛 (中南地区赛)：二等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\AWARDjisheshenger.jpg)  
-- **湖北省大学生数学竞赛：一等奖** *省部级* 2023 &nbsp;&nbsp;[[证明]](..\docs\AWARDshuxuejingsai.pdf)  
+- **湖北省大学生数学竞赛：三等奖** *省部级* 2023 &nbsp;&nbsp;[[证明]](..\docs\AWARDshuxuejingsai.pdf)  
 - **“华中杯” 大学生数学建模挑战赛：二等奖** *省部级* 2023 &nbsp;&nbsp;[[证明]](..\docs\AWARDhuazhongbei.pdf)  
 - **“蓝桥杯”软件赛道 C++ 程序设计赛 (湖北赛区)：三等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\AWARDlanqiaobeiC.pdf)
 - **“蓝桥杯”软件赛道 Web 应用开发赛 (湖北赛区)：三等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\AWARDlanqiaobeiWeb.pdf)       
