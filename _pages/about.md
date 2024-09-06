@@ -142,7 +142,7 @@ redirect_from:
   3. **数据增强：** 使用CutMix、FingerDropout、TimeStretch等正则化模型。
 - **项目成果：**  
   * 取得了0.662的Final Score，获得铜牌(118/1315)。&nbsp;<span style="font-size: 16px;">
-      <a href="https://insistentyy.github.io/docs/AWARDGoogleASLlyj.png">[获奖证明]</a>
+      <a href="https://insistentyy.github.io/docs/AWARDGoogleASLhj.png">[获奖证明]</a>
     </span>
 
 ---
