@@ -69,7 +69,7 @@ redirect_from:
   3. 我们的方法将参数与非参数TPP模型的优势结合，既能扩展到新出现的事件序列中，又能显著提高模型的预测精度和可解释性。
 - **项目成果：**  
   * 我们的方法通过广泛的合成和实际数据集测试，展示了优于现有SOTA方法的性能。
-  * 相关论文已完成，先前投稿于KDD 2024，Decision为Resubmit；现已完善并投稿(resubmit，录用率远高于常规track)于 KDD 2025(第五作者，第二本科生作者)&nbsp;<span style="font-size: 16px;"><a href="https://insistentyy.github.io/docs/KDDlongyujie.png">[OpenReview]</a></span>
+  * 相关论文已完成，先前投稿于KDD 2024，Decision为Resubmit；现已完善并投稿(resubmit，录用率远高于常规track)于 KDD 2025(第五作者，第二本科生作者)&nbsp;<span style="font-size: 16px;"><a href="https://insistentyy.github.io/docs/KDDhuangjing.jpeg">[OpenReview]</a></span>
 
 ---
 
