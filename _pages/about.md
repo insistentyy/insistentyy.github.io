@@ -51,7 +51,7 @@ redirect_from:
   3. **事件分支的有效表征：** 结构化的责任矩阵和注意力图可以有效表征事件分支，提供关于事件产生和信息扩散机制的有价值见解。
 - **项目成果：**  
   * 在合成数据和现实数据上的实验表明，将我们的BADMM模块插入到现有的TPP模型和学习范式中可以稳定提高模型的性能，并产出可解释的事件分支。
-  * 论文已投稿至**AAAI 2025**(第四作者)&nbsp;<span style="font-size: 16px;">
+  * 论文已投稿至**AAAI 2025**(第三作者，第一本科生作者)&nbsp;<span style="font-size: 16px;">
       <a href="https://insistentyy.github.io/docs/AAAIhuangjing.png">[OpenReview]</a>
 
 ## **💡 使用可扩展非参数正则化学习结构增强时序点过程** 
