@@ -26,7 +26,7 @@ redirect_from:
 - **排名：** GPA排名：**6/146 (4.1%)**    
 - **语言能力：** 以良好成绩通过 CET4、CET6(其中CET6-552)；具备良好的英语文献阅读和写作能力  
 - **核心课程：** 高等数学 (96,90)、线性代数 (90)、概率论与数理统计 (95)、数据结构 (92,92)、离散数学 (92)、信息安全数学基础 (94)、计算机网络 (95)、密码学 (97,94)、软件安全 (95)、安全创客实践 (96)  
-- **编程能力：** 编程常用语言为 C++、Python，熟悉算法与数据结构，代码风格良好；熟练掌握 PyTorch、Numpy、Pandas，具备优秀的编程、建模能力，多次获数学建模类比赛奖项  
+- **编程能力：** 编程常用语言为 C++、Python，熟悉算法与数据结构，代码风格良好；熟练掌握 PyTorch、Numpy、Pandas，具备优秀的编程、建模能力，多次获编程/数学建模类比赛奖项  
 - **开发工具：** VS Code，PyCharm，Jupyter Notebook，LaTeX (Overleaf)，Git  
 - **在校荣誉：** 曾获国家励志奖学金、武汉大学甲等奖学金(5%)、武汉大学三好学生(10%)、武汉大学优秀学生干部、武汉大学优秀共青团员及多项竞赛奖金，在校累计获奖逾30000元  
 
@@ -106,7 +106,7 @@ redirect_from:
 - **项目成果：**  
   * 作为主力队员参加第17届中国大学生计算机设计大赛(中南地区赛)，以人工智能应用组第一名(1/314)的成绩进入全国总决赛&nbsp;<span style="font-size: 16px;">
       <a href="https://mumuyeye.github.io/docs/2024jishe.pdf">[中南地区赛第一名-证明]</a>
-  </span>，并获得全国总决赛二等奖第一名&nbsp;<span style="font-size: 16px;">
+  </span>，并获得全国总决赛二等奖&nbsp;<span style="font-size: 16px;">
       <a href="https://insistentyy.github.io/docs/AWARDjisheguoer.jpg">[获奖证明]</a>
   </span>
 
