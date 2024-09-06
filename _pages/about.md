@@ -141,8 +141,7 @@ redirect_from:
   2. **置信度分数：** 用于识别损坏示例并进行后处理。
   3. **数据增强：** 使用CutMix、FingerDropout、TimeStretch等正则化模型。
 - **项目成果：**  
-  * 取得了0.662的Final Score，获得铜牌（118/1315）。  
-  * &nbsp;<span style="font-size: 16px;">
+  * 取得了0.662的Final Score，获得铜牌(118/1315)。&nbsp;<span style="font-size: 16px;">
       <a href="https://insistentyy.github.io/docs/AWARDGoogleASLlyj.png">[获奖证明]</a>
     </span>
 
@@ -160,8 +159,7 @@ redirect_from:
   2. **文本挖掘：** 探讨农民工现状及问题，提出解决策略。
   3. **聚类可视化分析：** 研究饮食结构变化，保持农村饮食文化。
 - **项目成果：**  
-  * 作为主力队员参加第17届中国大学生计算机设计大赛并获中南地区赛二等奖。  
-  * &nbsp;<span style="font-size: 16px;">
+  * 作为主力队员参加第17届中国大学生计算机设计大赛并获中南地区赛二等奖。&nbsp;<span style="font-size: 16px;">
       <a href="https://insistentyy.github.io/docs/AWARDjisheshenger.jpg">[获奖证明]</a>
     </span>
 
@@ -177,8 +175,7 @@ redirect_from:
 - **我们的方法：**  
   1. **多步预测模型：** 使用交叉验证与RMSE评估模型效果，预测PM2.5浓度和AQI指数。
 - **项目成果：**  
-  * 作为主力队员参加第十五届“华中杯”大学生数学建模挑战赛并获二等奖。  
-  * &nbsp;<span style="font-size: 16px;">
+  * 作为主力队员参加第十五届“华中杯”大学生数学建模挑战赛并获二等奖。&nbsp;<span style="font-size: 16px;">
       <a href="https://insistentyy.github.io/docs/AWARDhuazhongbei.pdf">[获奖证明]</a>
     </span>
 
