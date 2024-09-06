@@ -22,8 +22,8 @@ redirect_from:
 
 # 🎓 Education Background
 
-- **排名：** GPA排名：**10/146 (6.8%)**  
 - **成绩均分：** GPA：3.91/4.0、加权平均分：92.11/100  
+- **排名：** GPA排名：**10/146 (6.8%)**    
 - **语言能力：** 以良好成绩通过 CET4、CET6(其中CET6-552)；具备良好的英语文献阅读和写作能力  
 - **核心课程：** 高等数学 (96,90)、线性代数 (90)、概率论与数理统计 (95)、数据结构 (92,92)、离散数学 (92)、信息安全数学基础 (94)、计算机网络 (95)、密码学 (97,94)、软件安全 (95)、安全创客实践 (96)  
 - **编程能力：** 编程常用语言为 C++、Python，熟悉算法与数据结构，代码风格良好；熟练掌握 PyTorch、Numpy、Pandas、OpenCV，熟悉各类深度学习模型及其编程实现；具备优秀的编程、建模能力，多次获数学建模/数据挖掘(kaggle)类比赛奖项  
@@ -122,21 +122,24 @@ redirect_from:
 
 # 🏆 Competition Awards
 
-- **中国大学生计算机设计大赛：全国二等奖** *国家级* 2024 &nbsp;&nbsp;[[证明]](..\docs\全国二等奖.pdf)  
-- **中国大学生计算机设计大赛：赛区第一名/并晋级 8 月的全国总决赛** *国家级* 2024 &nbsp;&nbsp;[[证明]](..\docs\赛区第一名.pdf)  
-- **全国大学生数学竞赛：一等奖** *国家级* 2023 &nbsp;&nbsp;[[证明]](..\docs\全国大学生数学竞赛一等奖.pdf)  
-- **Kaggle-American Sign Language Fingerspelling Recognition：铜牌** *国家级* 2023 &nbsp;&nbsp;[[证明]](..\docs\Kaggle铜牌.pdf)  
-- **中国大学生计算机设计大赛 (中南地区赛)：一等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\中南地区赛一等奖.pdf)  
-- **中国大学生计算机设计大赛 (中南地区赛)：二等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\中南地区赛二等奖.pdf)  
-- **湖北省大学生数学竞赛：一等奖** *省部级* 2023 &nbsp;&nbsp;[[证明]](..\docs\湖北省大学生数学竞赛一等奖.pdf)  
-- **“华中杯” 大学生数学建模挑战赛：二等奖** *省部级* 2023 &nbsp;&nbsp;[[证明]](..\docs\华中杯二等奖.pdf)  
-- **“蓝桥杯”软件赛道 C++ 程序设计赛 (湖北赛区)：三等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\蓝桥杯三等奖.pdf)     
+- **中国大学生计算机设计大赛：全国二等奖** *国家级* 2024 &nbsp;&nbsp;[[证明]](..\docs\AWARDjisheguoer.jpg)  
+- **中国大学生计算机设计大赛：赛区第一名/并晋级 8 月的全国总决赛** *国家级* 2024 &nbsp;&nbsp;[[证明]](https://mumuyeye.github.io/docs/2024jishe.pdf)  
+- **全国大学生数学竞赛：一等奖** *国家级* 2023 &nbsp;&nbsp;[[证明]](..\docs\AWARDshuxuejingsai.pdf)  
+- **Kaggle-American Sign Language Fingerspelling Recognition：铜牌** *国家级* 2023 &nbsp;&nbsp;[[证明]](..\docs\AWARDGoogleASLhj.png)  
+- **中国大学生计算机设计大赛 (中南地区赛)：一等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\AWARDjisheshengyi.jpg)  
+- **中国大学生计算机设计大赛 (中南地区赛)：二等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\AWARDjisheshenger.jpg)  
+- **湖北省大学生数学竞赛：一等奖** *省部级* 2023 &nbsp;&nbsp;[[证明]](..\docs\AWARDshuxuejingsai.pdf)  
+- **“华中杯” 大学生数学建模挑战赛：二等奖** *省部级* 2023 &nbsp;&nbsp;[[证明]](..\docs\AWARDhuazhongbei.pdf)  
+- **“蓝桥杯”软件赛道 C++ 程序设计赛 (湖北赛区)：三等奖** *省部级* 2024 &nbsp;&nbsp;[[证明]](..\docs\AWARDlanqiaobeiC.pdf)    
 
 # 🥇 Scholarships and Honors
 
-- *2023.10* **武汉大学阮立平奖学金** (￥6000，全院共2人) *武汉大学* &nbsp;&nbsp;[[证明]](..\docs\ruanliping.jpg)
-- *2023.10* **武汉大学三好学生** (获奖率：全校10%) *武汉大学* &nbsp;&nbsp;[[证明]](..\docs\sanhaoxuesheng.jpg)
-- *2023.10* **武汉大学社会活动积极分子** *武汉大学* &nbsp;&nbsp;[[证明]](..\docs\shehuohuodong.jpg)
+- *2023.10* **国家励志奖学金** *武汉大学* &nbsp;&nbsp;[[证明]](..\docs\guojia.jpg)  
+- *2023.10* **武汉大学甲等奖学金** (获奖率：全校5%) *武汉大学* &nbsp;&nbsp;[[证明]](..\docs\jiadeng.jpg)  
+- *2023.10* **武汉大学三好学生** (获奖率：全校10%) *武汉大学* &nbsp;&nbsp;[[证明]](..\docs\sanhaoxuesheng.jpg)  
+- *2023.10* **武汉大学优秀学生干部** *武汉大学* &nbsp;&nbsp;[[证明]](..\docs\youxiuxueshengganbu.jpg)  
+- *2023.10* **武汉大学优秀共青团员** *武汉大学* &nbsp;&nbsp;[[证明]](..\docs\gongqingtuan.jpg)
+
 # 📖 Educations
 
 - **2021.9 - 至今**，本科生，武汉大学国家网络安全学院，专业：信息安全
